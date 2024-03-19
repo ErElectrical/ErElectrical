@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Mohit Tanwar
 - 👀 I’m a software Professional ...
-- 🌱 A .Net full stack developer having hand on experience over technologies like  HTML,CSS,JavaScript,Jquery,Bootstrap and angular framework 
-- ✌  Primary programming language is c#.
+- 🌱 As a software engineer proficient in .NET full stack development and LabVIEW, I specialize in creating robust web and desktop applications using technologies like ASP.NET, C#, and SQL Server.
+-    Additionally, I have expertise in designing and implementing advanced measurement and automation systems using LabVIEW for industries such as manufacturing and research.
+-    My skills bridge the gap between traditional software development and specialized engineering applications, making me adept at tackling a variety of projects. 
+- ✌  Primary programming language is c# and python.
 - 🎉 well aware about sql and nosql DB
 
 - 📫 How to reach me ...
